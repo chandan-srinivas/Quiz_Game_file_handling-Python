@@ -1,0 +1,11 @@
+%%writefile quiz.txt
+1. What is the Highest Waterfall in the world?,A. Angel Waterfall,B. Tarabu Falls,C. Jog Falls,D. Niagra Falls,A
+2. Who is known as the father of the nation?,A. Rabindranath Tagore,B. APJ Abdul Kalam,C. Mahatma Gandhi,D. Jawaharlal Nehru,C
+3. Who Wrote "Indian Constitution"?,A. Lal Bahadur Sastry,B. DR.B.R.Ambedkar,C. Sarvepalli RadhaKrishna,D. Bankim chandra Chattarge,B
+4. What is the capital of india?,A. Delhi,B. Kolkata,C. Mumbai,D. Chennai,A
+5. Who is the Prime Minister of India?,A. Manmohan Singh,B. Narendra Modi,C. Rahul Gandhi,D. Draupadi Murumur,B
+6. What is the Highest peak in the world?,A. Kilimanjaroo,B. MT Fiji,C. Mount Everest,D. MT Sinai,C
+7. Who is the inventor of Bulb?,A. Thomas Alva Edison,B. GrahamBell,C. Einsten,D. Darwin,A
+8. Where did jesus born?,A. Nazareth,B. Jerusalem,C. Getsamane,D. Bethlehem,D
+9. Which year india got independence?,A. 1966,B. 1947,C. 1973,D. 1950,B 
+10. In which country the statue of liberty located?,A. India,B. China,C. USA,D. Japan,C
